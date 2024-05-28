@@ -1,9 +1,11 @@
 # Automatically generated for Debian scripts. DO NOT TOUCH!
+
 [client]
 host     = localhost
 user     = EXAMPLE_USER
 password = EXAMPLE_PASSWD
 socket   = /var/run/mysqld/mysqld.sock
+
 [mysql_upgrade]
 host     = localhost
 user     = EXAMPLE_USER
