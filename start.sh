@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#AUTOMATIC START SERVICES WHEN CONTAINER RUNNING
+#AUTO START SERVICES WHEN CONTAINER RUNNING
 service mysql start
 service cron start
 
